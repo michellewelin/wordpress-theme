@@ -1,0 +1,126 @@
+/* line 1, ../scss/mobile-smaller.scss */
+.logo {
+  left: 15px;
+  top: 22px;
+}
+/* line 6, ../scss/mobile-smaller.scss */
+.logo img {
+  width: 67%;
+}
+
+/* line 14, ../scss/mobile-smaller.scss */
+.primary-nav ul {
+  display: table;
+  padding: 0;
+}
+/* line 19, ../scss/mobile-smaller.scss */
+.primary-nav li {
+  padding: 0;
+}
+/* line 24, ../scss/mobile-smaller.scss */
+.primary-nav a {
+  font-size: 0.8em;
+  padding-right: 10px;
+}
+
+/* line 31, ../scss/mobile-smaller.scss */
+.click-menu {
+  font-size: 1.8em;
+  right: 15px;
+}
+
+/* line 36, ../scss/mobile-smaller.scss */
+.top-widget-area-wrap {
+  display: none;
+}
+
+/* line 41, ../scss/mobile-smaller.scss */
+#portfolio, .post-47, .post-110, .post-26 {
+  padding: 20px 24px;
+}
+/* line 44, ../scss/mobile-smaller.scss */
+#portfolio h1, .post-47 h1, .post-110 h1, .post-26 h1 {
+  font-size: 35px;
+  padding-top: 20px;
+  margin-bottom: 30px !important;
+}
+
+/* line 52, ../scss/mobile-smaller.scss */
+h2 {
+  font-size: 25px;
+}
+
+/* line 56, ../scss/mobile-smaller.scss */
+.item {
+  width: 95%;
+  float: none;
+  padding-bottom: 20px;
+}
+
+/*about me*/
+/* line 64, ../scss/mobile-smaller.scss */
+.page-id-13 .posts {
+  padding: 0 20px 0;
+}
+/* line 67, ../scss/mobile-smaller.scss */
+.page-id-13 .posts h1 {
+  padding-top: 20px;
+}
+/* line 72, ../scss/mobile-smaller.scss */
+.page-id-13 .posts h2 {
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+/* line 77, ../scss/mobile-smaller.scss */
+.page-id-13 .posts p {
+  font-size: 18px;
+  margin-bottom: 160px;
+  line-height: 25px;
+}
+/* line 83, ../scss/mobile-smaller.scss */
+.page-id-13 .posts img {
+  width: 95%;
+  margin: 0 auto;
+}
+
+/* line 92, ../scss/mobile-smaller.scss */
+.wpcf7-form input, .wpcf7-form textarea {
+  width: 95%;
+}
+/* line 100, ../scss/mobile-smaller.scss */
+.wpcf7-form input[type="submit"], .wpcf7-form textarea[type="submit"] {
+  width: 47.5%;
+}
+
+/* line 105, ../scss/mobile-smaller.scss */
+.pop-up {
+  width: 310px;
+  height: 400px;
+  left: 50%;
+  margin-left: -160px;
+  top: 50%;
+  margin-top: -200px;
+}
+/* line 113, ../scss/mobile-smaller.scss */
+.pop-up .pop-up-inner {
+  padding: 20px;
+}
+/* line 117, ../scss/mobile-smaller.scss */
+.pop-up .project-text {
+  width: 100%;
+}
+/* line 121, ../scss/mobile-smaller.scss */
+.pop-up .project-text p {
+  padding: 0 20px;
+  line-height: 25px;
+}
+/* line 127, ../scss/mobile-smaller.scss */
+.pop-up .img {
+  width: 100%;
+  margin: 23px auto 0;
+  float: none;
+}
+/* line 134, ../scss/mobile-smaller.scss */
+.pop-up .item {
+  width: 100%;
+}
